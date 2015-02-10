@@ -48,7 +48,7 @@ class BuildExe:
         self.project_name = "Snake"
  
         #Project url
-        self.project_url = "http://TheresaMahrieGardoce.github.io/Snake"
+        self.project_url = "http://theresamahriegardoce.github.io/Snake"
  
         #Version of program
         self.project_version = "1.0"
